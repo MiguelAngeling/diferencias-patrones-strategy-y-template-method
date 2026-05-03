@@ -1,0 +1,1 @@
+# diferencias-patrones-strategy-y-template-method
